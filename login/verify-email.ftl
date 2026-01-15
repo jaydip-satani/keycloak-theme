@@ -7,7 +7,7 @@
 <body>
 <div class="page">
   <div class="card">
-    <img src="${url.resourcesPath}/img/logo.svg" class="logo" />
+    <img src="${url.resourcesPath}/img/logo.png" class="logo" />
     <h1>Verify your email</h1>
     <p class="subtitle">Check your inbox and click the verification link.</p>
   </div>

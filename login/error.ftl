@@ -7,7 +7,7 @@
 <body>
 <div class="page">
   <div class="card">
-    <img src="${url.resourcesPath}/img/logo.svg" class="logo" />
+    <img src="${url.resourcesPath}/img/logo.png" class="logo" />
     <h1>Something went wrong</h1>
 
     <div class="error-box">

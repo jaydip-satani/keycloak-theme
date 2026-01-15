@@ -7,7 +7,7 @@
 <body>
 <div class="page">
   <div class="card">
-    <img src="${url.resourcesPath}/img/logo.svg" class="logo" />
+    <img src="${url.resourcesPath}/img/logo.png" class="logo" />
     <h1>Create account</h1>
 
     <form action="${url.registrationAction}" method="post">
